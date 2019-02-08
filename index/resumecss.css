@@ -1,0 +1,27 @@
+*Formatting the body.*/
+body {
+  background-color: white;
+}
+
+/*Formatting header 1*/
+h1 {
+  color: black;
+  background-color: steelblue;
+  font-family: "Georgia";
+	font-size: 200%;
+	width: 200px;
+	font-style: bold;
+}
+/*Header 2*/
+h2 {
+  color: steelblue;
+  font-family: "verdana","Georgia", ;
+	font-size: 150%;
+	width: 200px;
+}
+/*Paragraph*/
+p {
+  color: black;
+  font-family: verdana;
+	font-size: 100%;
+}

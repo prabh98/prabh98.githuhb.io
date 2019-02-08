@@ -1,0 +1,55 @@
+
+/*Formatting the body.*/
+body {
+  background-color: white;
+}
+
+/*Formatting header 1*/
+h1 {
+  color: black;
+  background-color: steelblue;
+  font-family: "Georgia";
+	font-size: 200%;
+	width: 600px;
+	font-style: bold;
+}
+/*Header 2*/
+h2 {
+  color: black;
+  background-color: steelblue;
+  font-family: "verdana","Georgia", ;
+	font-size: 150%;
+	width: 600px;
+}
+/*Paragraph*/
+p {
+  color: black;
+  font-family: verdana;
+	font-size: 100%;
+}
+/*Table*/
+table{
+	border: 1px;
+	border-style: solid;
+}
+/*Table*/
+tr{
+	border: 1px;
+	border-style: solid;
+}
+/*Table*/
+th{
+	border: 1px;
+	border-style: solid;
+}
+/*Table header*/
+thead{
+	border: 1px;
+	border-style: solid;
+}
+/*Table*/
+td{
+	color:steelblue;
+	border: 1px;
+	border-style: solid;
+}
